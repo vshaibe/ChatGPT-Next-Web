@@ -3,6 +3,7 @@ import { RequiredLocaleType } from "./index";
 
 const en: RequiredLocaleType = {
   WIP: "Coming Soon...",
+  Login: "Login with Microsoft Account",
   Error: {
     Unauthorized:
       "Unauthorized access, please enter access code in settings page.",

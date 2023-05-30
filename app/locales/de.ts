@@ -3,6 +3,7 @@ import type { LocaleType } from "./index";
 
 const de: LocaleType = {
   WIP: "In Bearbeitung...",
+  Login: "Login with Microsoft Account",
   Error: {
     Unauthorized:
       "Unbefugter Zugriff, bitte geben Sie den Zugangscode auf der Einstellungsseite ein.",
