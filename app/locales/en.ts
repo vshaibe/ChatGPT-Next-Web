@@ -190,6 +190,7 @@ const en: LocaleType = {
       Config: {
         Modal: {
           Title: "Config Sync",
+          Check: "Check Connection",
         },
         SyncType: {
           Title: "Sync Type",
@@ -209,6 +210,12 @@ const en: LocaleType = {
           Endpoint: "WebDAV Endpoint",
           UserName: "User Name",
           Password: "Password",
+        },
+
+        UpStash: {
+          Endpoint: "UpStash Redis REST Url",
+          UserName: "Backup Name",
+          Password: "UpStash Redis REST Token",
         },
       },
 
