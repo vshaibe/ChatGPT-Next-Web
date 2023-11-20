@@ -461,6 +461,7 @@ const pt: LocaleType = {
     Settings:
       "Configurações detectadas a partir da url, confirmar para aplicar?",
   },
+  Login: "",
 };
 
 export default pt;
